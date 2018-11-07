@@ -1,0 +1,146 @@
+const cityList = [{
+  "cityId": 289,
+  "cityName": "上海",
+  "domain": "www",
+  "pinyin": "shanghai",
+  "supportBroker": "1",
+  "lat": "31.236305",
+  "lng": "121.480237"
+}, {
+  "cityId": 131,
+  "cityName": "北京",
+  "domain": "bj",
+  "pinyin": "beijing",
+  "supportBroker": "1",
+  "lat": "39.911013",
+  "lng": "116.413554"
+}, {
+  "cityId": 340,
+  "cityName": "深圳",
+  "domain": "sz",
+  "pinyin": "shenzhen",
+  "supportBroker": "1",
+  "lat": "22.548515",
+  "lng": "114.066112"
+}, {
+  "cityId": 179,
+  "cityName": "杭州",
+  "domain": "hz",
+  "pinyin": "hangzhou",
+  "lat": "30.280059",
+  "lng": "120.161693"
+}, {
+  "cityId": 315,
+  "cityName": "南京",
+  "domain": "nj",
+  "pinyin": "nanjing",
+  "lat": "32.064735",
+  "lng": "118.802891"
+}, {
+  "cityId": 75,
+  "cityName": "成都",
+  "domain": "cd",
+  "pinyin": "chengdu",
+  "lat": "30.576279",
+  "lng": "104.071216"
+}, {
+  "cityId": 132,
+  "cityName": "重庆",
+  "domain": "cq",
+  "pinyin": "chongqing",
+  "lat": "29.570997",
+  "lng": "106.557165"
+}, {
+  "cityId": 233,
+  "cityName": "西安",
+  "domain": "xa",
+  "pinyin": "xian",
+  "lat": "34.347436",
+  "lng": "108.946306"
+}, {
+  "cityId": 268,
+  "cityName": "郑州",
+  "domain": "zz",
+  "pinyin": "zhengzhou",
+  "lat": "34.753488",
+  "lng": "113.631349"
+}, {
+  "cityId": 218,
+  "cityName": "武汉",
+  "domain": "wh",
+  "pinyin": "wuhan",
+  "lat": "30.598428",
+  "lng": "114.311831"
+}, {
+  "cityId": 332,
+  "cityName": "天津",
+  "domain": "tj",
+  "pinyin": "tianjin",
+  "lat": "39.09367",
+  "lng": "117.20952"
+}, {
+  "cityId": 224,
+  "cityName": "苏州",
+  "domain": "su",
+  "pinyin": "suzhou",
+  "lat": "31.304566",
+  "lng": "120.589613"
+}, {
+  "cityId": 257,
+  "cityName": "广州",
+  "domain": "gz",
+  "pinyin": "guangzhou",
+  "lat": "23.135308",
+  "lng": "113.270793"
+}, {
+  "cityId": 194,
+  "cityName": "厦门",
+  "domain": "xm",
+  "pinyin": "xiamen",
+  "lat": "24.485821",
+  "lng": "118.095915"
+}, {
+  "cityId": 158,
+  "cityName": "长沙",
+  "domain": "cs",
+  "pinyin": "changsha",
+  "lat": "28.233971",
+  "lng": "112.945333"
+}, {
+  "cityId": 119,
+  "cityName": "东莞",
+  "domain": "dg",
+  "pinyin": "dongguan",
+  "lat": "23.026997",
+  "lng": "113.758231"
+}, {
+  "cityId": 180,
+  "cityName": "宁波",
+  "domain": "nb",
+  "pinyin": "ningbo",
+  "lat": "29.880177",
+  "lng": "121.556686"
+}, {
+  "cityId": 127,
+  "cityName": "合肥",
+  "domain": "hf",
+  "pinyin": "hefei",
+  "lat": "31.82687",
+  "lng": "117.235447"
+}, {
+  "cityId": 300,
+  "cityName": "福州",
+  "domain": "fz",
+  "pinyin": "fuzhou",
+  "lat": "26.080447",
+  "lng": "119.302938"
+}, {
+  "cityId": 288,
+  "cityName": "济南",
+  "domain": "jn",
+  "pinyin": "jinan",
+  "lat": "36.656554",
+  "lng": "117.126399"
+}];
+
+module.exports = cityList;
